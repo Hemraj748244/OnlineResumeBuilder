@@ -1,0 +1,45 @@
+.container 
+{
+	margin-top: 20px;
+width:  750px;
+background-color: rgb(240, 240, 240,.03);
+text-align: center;
+border:2px solid;
+}
+.well
+{
+	background-color: rgb(31, 32, 28);
+	color: white;
+	font-family: algerian;
+	font-size: 50px;
+}
+.btn
+{
+	font-family:  Comic Sans MS;
+	font-size: 30px;
+	line-height: 30PX;
+	background-color: rgb(31, 32, 28);
+}
+.error
+{
+	color: red;
+}
+.container .webtitle .header
+{
+	color: rgb(56, 30, 71);
+	font-weight: bolder;
+	line-height: 70px;
+}
+.btn:hover
+{
+	background-color:  #4d4d4d;
+}
+
+.div-sm-4
+{
+	align-self: center;
+}
+.landing-steps landing-section landing-section--alt
+{
+	background-image: url(bg.jpg);
+}

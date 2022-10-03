@@ -1,0 +1,35 @@
+nav
+{
+	width: 100%;
+}
+.navbar-header
+{
+line-height: 50px;
+font-size: 25px;
+font-family: algerain;
+color: white;
+padding-right: 10px;
+font-style: italic;
+text-decoration: underline;
+}
+.navbar-nav
+{
+	font-style: bold;
+	
+}
+.navbar
+{
+	
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+
+}
+ul li:hover
+{
+	background-color: black;
+	color: white;
+}
+h1,label
+{
+	color: white;
+}

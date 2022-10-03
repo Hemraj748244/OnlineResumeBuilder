@@ -1,0 +1,21 @@
+
+
+	while($row=mysqli_fetch_assoc($reseducation))
+	{
+		$deg=$row['degree'];
+		$institute=$row['institute'];
+		$university=$row['university'];
+		$specilization=$row['specialization'];
+		$from=$row['startd'];
+		$to=$row['endd'];
+		$percent=$row['percentage'];
+	}
+
+	
+    while($row=mysqli_fetch_assoc($resprojects))
+    {
+    	$prjtitle=$row['title'];
+    	$prjabout=$row['about'];
+    	$language=$row['lang'];
+    	$time=$row['duration'];
+    }

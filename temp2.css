@@ -1,0 +1,15 @@
+
+.well center h6
+{
+	font-family: fantasy;
+	font-weight: bolder;
+	font-size: 40px;
+	color: rgb(0, 51, 102);
+}
+      
+.panel .panel-heading
+{
+	color: rgb(0, 51, 102);
+	background-color: rgb(242, 242, 242);
+	font-size: 22px;
+}

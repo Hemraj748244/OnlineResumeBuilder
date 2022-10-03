@@ -1,0 +1,22 @@
+.container
+{
+
+	border:2px solid blue;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.row
+{
+	padding: 10px;
+}
+h4
+{
+	font-family: Impact;
+	font-size: 25px;
+	border-bottom: 1px solid gray;
+}
+h3
+{
+	font-family: Agency FB;
+	font-size: 30px;
+}

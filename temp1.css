@@ -1,0 +1,28 @@
+hr.under
+{
+	border: 2px solid rgb(0, 64, 128);
+	border-radius: 10px;
+}
+h2
+{
+	color: rgb(0, 64, 128);
+	padding-bottom: 0px;
+}
+.glyphicon
+{
+	border: 2px solid; border-radius: 6px; 
+	color:white;
+}
+ul
+{
+	margin-left: 12px;
+	padding-left: 12px;
+}
+span
+{
+	background-color: rgb(0, 64, 128);
+}
+.container
+{
+	border:2px solid rgb(0, 64, 128);
+}

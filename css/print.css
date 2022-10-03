@@ -1,0 +1,12 @@
+@media print {
+    #hide {
+      display:none;
+    }
+    #A{
+     display:block;    
+    width: auto;
+    height: auto;
+    overflow-y:visible;
+    overflow-x:visible;
+    }
+}

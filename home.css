@@ -1,0 +1,54 @@
+
+.navbar-header
+{
+line-height: 50px;
+font-size: 25px;
+font-family: algerain;
+color: white;
+padding-right: 10px;
+font-style: italic;
+text-decoration: underline;
+}
+
+.navbar-nav
+{
+	font-style: bold;
+	
+}
+li
+{
+	font-weight: bolder;
+}
+.navbar
+{
+	position: fixed;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+
+}
+
+.landing-steps__step-icon
+{
+	text-align: center;
+}
+.landing-steps__step-title
+{
+	text-align: center;
+	color: black;
+}
+.landing-heading
+{
+	font-size: 40px;
+	font-weight: bolder;
+	font-family: cooper black;
+	color: white;
+}
+ul li:hover
+{
+	background-color: black;
+	color: white;
+}
+#item
+{
+	all:unset;
+}

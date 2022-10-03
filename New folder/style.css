@@ -1,0 +1,29 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	font-family: algerian;
+	font-size: 15px;
+	background: black;
+}
+nav
+{
+	height: 40px;
+	background: #024846;
+
+}
+nav ul
+{
+	list-style: none;
+
+}
+nav ul li a
+{
+float: left;
+color:white;
+text-decoration: none;
+padding: 30px;
+padding: 0 40px;
+line-height:20px;
+text-transform: uppercase;;  
+}
